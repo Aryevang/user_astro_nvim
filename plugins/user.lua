@@ -1,6 +1,4 @@
 return {
-  { "andersevenrud/nordic.nvim" },
-  { "martinsione/darkplus.nvim" },
   {
     "EdenEast/nightfox.nvim",
     config = function() require("nightfox").setup {} end,

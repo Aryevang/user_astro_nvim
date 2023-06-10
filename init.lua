@@ -85,7 +85,7 @@ return {
     --LSP
     vim.keymap.set("n", "gs", "<cmd>Lspsaga signature_help<CR>")
     --LSP Code Actions
-    vim.keymap.set("n", "<leader>ca", "<cmd>Lspsaga code_action<CR>")
+    -- vim.keymap.set("n", "<leader>ca", "<cmd>Lspsaga code_action<CR>")
     --ToggleTerm
     vim.keymap.set("n", "<C-\\>", "<cmd>ToggleTerm<cr>")
     -- Set up custom filetypes
