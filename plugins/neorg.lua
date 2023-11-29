@@ -12,7 +12,8 @@ return {
               workspaces = {
                 work = "F:/notes/work",
                 personal = "F:/notes/personal"
-              }
+              },
+              default_workspace ="personal"
             }
           }
         }
