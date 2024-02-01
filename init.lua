@@ -83,7 +83,7 @@ return {
     vim.keymap.set("n", "<Tab>", "<cmd>bnext<CR>")
     vim.keymap.set("n", "<S-Tab>", "<cmd>bprevious<CR>")
     --LSP
-    vim.keymap.set("n", "gs", "<cmd>Lspsaga signature_help<CR>")
+    -- vim.keymap.set("n", "gs", "<cmd>Lspsaga signature_help<CR>")
     --LSP Code Actions
     -- vim.keymap.set("n", "<leader>ca", "<cmd>Lspsaga code_action<CR>")
     --ToggleTerm
